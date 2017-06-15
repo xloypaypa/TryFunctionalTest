@@ -40,7 +40,7 @@ public class MainActivityTest {
                                         0),
                                 0),
                         isDisplayed()));
-        textView.check(matches(withText("Hello World!")));
+        textView.check(matches(withText("Hello World!!")));
 
     }
 
